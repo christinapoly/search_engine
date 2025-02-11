@@ -3,7 +3,8 @@
 ```
 Overview:
 
-This project is a web-based search engine developed as part of the Introductory Programming course at IT University of Copenhagen. The main goal is to implement a search engine, focusing on fundamental software development techniques, algorithms, and best practices.
+This project is a web-based search engine developed as part of the Introductory Programming course at IT University of Copenhagen.
+The main goal is to implement a search engine, focusing on fundamental software development techniques, algorithms, and best practices.
 ```
 ```
 Features:
